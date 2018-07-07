@@ -1,0 +1,14 @@
+
+.button {
+  position: fixed;
+  right: 5em;
+  bottom: 2em;
+}
+
+.button Button {
+  font-size: 2em;
+}
+
+.linkButton {
+  text-decoration: none;
+}
